@@ -1,0 +1,11 @@
+---
+title: "Emerging computing technology for digital culture heritage preservation and inheritance: A literature review"
+collection: publications
+permalink: /publication/2025-08-18-ieee-tcss-heritage
+excerpt: 'Xinyi Fu, Meng Li, Xiaomeng Li, Wen Chen, Lening Yu, Zixin Chen, Shuting Wen, Yilin Li, <b>Jiachen Du</b>, Yun Wang, et al.'
+date: 2025-08-18
+venue: 'IEEE Transactions on Computational Social Systems'
+paperurl: 'https://doi.org/10.1109/TCSS.2025.3589324'
+---
+
+Cultural heritage preservation has entered a transformative era with the integration of advanced computing technologies, reshaping how heritage is acquired, archived, restored, analyzed, and presented. This study conducts a comprehensive literature review of the digital cultural heritage process (DCHP), analyzing 146 relevant case studies from the past five years (2020–2024), focusing on the role of computing technologies, especially emerging technologies, in revolutionizing heritage preservation. The DCHP is examined through five key stages—acquisition, archive, restoration, analysis and valuation, and presentation and promotion—highlighting the application of computing technologies and tools. Additionally, we explore the interdisciplinary integration of computing disciplines and multimodal data. Despite significant advancements, challenges persist in areas such as sustainability, data reuse, and ethical concerns. This study addresses research questions regarding exploring the impact of computing technologies on DCHP, the integration of hybrid disciplines and modalities, and future trends and challenges in emerging technologies for cultural heritage preservation. Our contributions include a detailed analysis of emerging technologies in DCHP, insights into multimodal and interdisciplinary integration, and a roadmap for future research. By synthesizing the current state-of-the-art and identifying gaps in the literature, this work aims to guide researchers and practitioners in leveraging emerging technologies to preserve and promote cultural heritage effectively.
