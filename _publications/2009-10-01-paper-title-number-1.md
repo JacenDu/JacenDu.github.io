@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2026-04-13-chi-privacy
+excerpt: 'This paper introduces a lightweight, group-based privacy control technique to manage front-camera data from AR glasses within home environments.'
+date: 2026-04-13
+venue: 'Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 26)'
+paperurl: 'https://doi.org/10.1145/3772318.3790288'
+citation: 'Shuning Zhang, Qucheng Zang, Yongquan Hu, Jiachen Du, et al. (2026). "VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments." <i>CHI 2026</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Always-on sensing of AI applications on AR glasses makes traditional permission techniques ill-suited for context-dependent visual data, especially within home environments. The home presents a highly challenging privacy context due to the high density of sensitive objects, and the frequent presence of non-consenting family members, and the intimate nature of daily routines, making it a critical focus area for scalable privacy control mechanisms. Existing fine-grained controls, while offering nuanced choices, are inefficient for managing multiple private objects. We propose VisGuardian, a fine-grained content-based visual permission technique for AR glasses. VisGuardian features a group-based control mechanism that enables users to efficiently manage permissions for multiple private objects. VisGuardian detects objects using YOLO and adopts a pre-classified schema to group them. By selecting a single object, users can efficiently obscure groups of related objects based on criteria including privacy sensitivity, object category, or spatial proximity. A technical evaluation shows VisGuardian achieves mAP50 of 0.6704 with only 14.0 ms latency and a 1.7% increase in battery consumption per hour. Furthermore, a user study (N=24) comparing VisGuardian to slider-based and object-based baselines found it to be significantly faster for setting permissions and was preferred by users for its efficiency, effectiveness, and ease of use.
