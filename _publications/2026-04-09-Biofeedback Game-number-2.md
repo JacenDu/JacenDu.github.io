@@ -2,7 +2,7 @@
 title: "Designing for Long-Term Emotion Regulation: A Breathing Biofeedback Game for Women in Compulsory Isolation Drug Rehabilitation Centers"
 collection: publications
 permalink: /publication/2026-04-13-chi-breathing-game
-excerpt: 'Qi Chen, <b>Jiachen Du</b>, Zhihao Yao, Michael Detsiang Li Jr, et al.'
+excerpt: 'Qi Chen, <b>Jiachen Du</b>, Zhihao Yao, Michael Detsiang Li Jr, et al. <br><br> <span style="color: #d9534f; font-weight: bold;">🏆 Best Paper Award </span>'
 date: 2026-04-13
 venue: 'ACM CHI 2026'
 paperurl: 'https://doi.org/10.1145/3772318.3790574'
